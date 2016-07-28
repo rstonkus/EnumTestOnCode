@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0-*",
+  "buildOptions": {
+    "debugType": "portable",
+    "emitEntryPoint": true
+  },
+  "dependencies": {
+    "BenchmarkDotNet":"0.*",
+    "BenchmarkDotNet.Diagnostics.Windows":"0.*"
+  },
+  "frameworks": {
+    "net461": {}
+    
+  }
+}
